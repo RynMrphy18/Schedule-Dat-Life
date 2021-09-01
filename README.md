@@ -35,6 +35,6 @@ https://rynmrphy18.github.io/Schedule-Dat-Life/
 
 https://github.com/RynMrphy18/Schedule-Dat-Life
 
-!image[https://user-images.githubusercontent.com/87506145/131734212-12ca55e8-3881-47ca-b5b7-5ad259f03e6c.png]
+![screenshot](https://user-images.githubusercontent.com/87506145/131734212-12ca55e8-3881-47ca-b5b7-5ad259f03e6c.png)
 
 
